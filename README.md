@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;Angular+Architecture+Expert;Fullstack+NestJS+%2B+PostgreSQL;Ionic+Mobile+Developer;International+Experience+(Canada)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Senior+Frontend+Engineer;Angular+Architecture+Expert;Fullstack+NestJS+%2B+PostgreSQL;Ionic+Mobile+Developer;International+Experience+(Canada)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Com **6+ anos de jornada**, transformo requisitos complexos em interfaces fluidas e escaláveis. Minha base foi moldada em projetos de alta criticidade (Itaú/Santander) e expandida internacionalmente em Vancouver. Sou movido por **Clean Code**, performance e a evolução do ecossistema Angular.
+Com **6+ anos de jornada**, transformo requisitos complexos em interfaces fluidas e escaláveis. Minha base foi moldada em projetos de alta criticidade (**Itaú/Santander**) e expandida internacionalmente em **Vancouver**. Sou movido por **Clean Code**, performance e a evolução contínua do ecossistema Angular.
 
 ---
 
@@ -46,15 +46,16 @@ Com **6+ anos de jornada**, transformo requisitos complexos em interfaces fluida
 ---
 
 ### 🌟 Projetos em Destaque
-* **[Nome do Projeto 1]**: Descrição matadora em uma linha (Angular + NestJS). [Ver Demo]
-* **[Nome do Projeto 2]**: App Mobile de alta performance com Ionic. [Ver Repo]
+* 🚀 **Sistema Completo de CRM**: Arquitetura robusta para gestão de relacionamento, focada em escalabilidade e UX avançada.
+* 📱 **App Mobile - Sociedade Hípica de Campinas**: Solução mobile híbrida de alta performance desenvolvida para um dos clubes mais tradicionais do Brasil.
+* 🏦 **Modernização Bancária (IBM)**: Otimização de fluxos transacionais e sistemas de cartões para Itaú e Santander.
 
 ---
 
 ### 🏆 Key Achievements
-* 🥇 **IBM Legacy:** Modernização de fluxos transacionais para bancos Tier 1.
-* 🥈 **Architecture:** Implementação de Design Systems escaláveis em Angular 17+.
-* 🥉 **Global Mindset:** Atuação fluente em ambientes de língua inglesa (Canada Experience).
+* 🥇 **Legacy Impact:** Entrega de soluções para clientes Tier 1 no setor financeiro.
+* 🥈 **Architecture First:** Especialista em componentização e Design Systems em Angular 17+.
+* 🥉 **Global Mindset:** Atuação fluente em ambientes internacionais e times distribuídos.
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=newericg&color=blue&style=flat-square&label=PROFILE+VIEWS" />
