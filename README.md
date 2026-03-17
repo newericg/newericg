@@ -1,43 +1,40 @@
-# Hi, I'm Eric Gomes de Sousa 👋
-### Senior Frontend Engineer | Angular Specialist | Fullstack Node.js (NestJS)
+# <p align="center">Hi, I'm Eric Gomes de Sousa 👋</p>
 
-Professional with **+6 years of experience** building scalable web applications and mobile solutions. My expertise lies in the **Angular ecosystem**, with a strong background in the financial sector (working with major players like **Itaú and Santander via IBM**) and international experience in **Vancouver, Canada**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer;Angular+Specialist;Fullstack+NestJS+Developer;Mobile+Ionic+Developer" alt="Typing SVG" />
+</p>
 
----
-
-### 🚀 Technical Expertise
-
-- **Frontend:** Angular (v2-17+), TypeScript, RxJS, NgRx, Signals, Ionic, Vue.js, Razor (C#).
-- **Backend:** Node.js, NestJS, REST APIs, GraphQL, SQL (PostgreSQL/MySQL).
-- **Cloud & DevOps:** AWS (S3, CloudFront, CI/CD Pipelines), Git, Docker.
-- **Testing & Quality:** Clean Code, Unit Testing, SEO Optimization, UI/UX focus.
-
----
-
-### 💼 Professional Highlights
-
-- **Senior Web & Mobile Developer @ Relier IT Solutions:** Leading hybrid app development (Ionic/Angular) and mentoring junior developers on best practices and architecture.
-- **Software Developer @ IBM (Itaú & Santander Projects):** Acted as a technical focal point, optimizing credit card systems and banking search engines for high-performance environments.
-- **International Experience:** Lived and worked in **Vancouver, Canada**, providing me with fluent English and a global perspective on software collaboration.
-
----
-
-### 📊 My Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ericgdesousa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ericgsousa@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📫 Let's connect!
-
-- **LinkedIn:** [linkedin.com/in/ericgdesousa/](https://www.linkedin.com/in/ericgdesousa/)
-- **Email:** [ericgsousa@outlook.com](mailto:ericgsousa@outlook.com)
-- **Location:** Campinas, SP - Brazil 🇧🇷 (Open to global remote opportunities)
+### 🚀 Sobre Mim
+Desenvolvedor Web com **+6 anos de experiência**, focado em criar aplicações escaláveis e de alta performance. Especialista no ecossistema **Angular**, com forte atuação em projetos críticos para o setor financeiro (**Itaú e Santander via IBM**). Experiência internacional em **Vancouver, Canadá**, e proficiência em soluções Fullstack (NestJS) e Mobile (Ionic).
 
 ---
-*"Commitment to clean code, scalability, and continuous improvement."*
+
+### 🛠 Minha Toolbox Técnica
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Mobile / Cloud</strong></td>
+    <td align="center" width="25%"><strong>Dev Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="left" vertical-align="top">
+      • Angular (v2-17+)<br>
+      • TypeScript / JS (ES6+)<br>
+      • RxJS / Signals / NgRx<br>
+      • Vue.js / Razor (C#)<br>
+      • HTML5 / CSS3 / SASS
+    </td>
+    <td align="left" vertical-align="top">
